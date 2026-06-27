@@ -1,0 +1,1 @@
+A structured collection of C programming exercises demonstrating my progress from beginner concepts to more advanced topics. Includes clean code, documentation, and organized solutions for each exercise.
